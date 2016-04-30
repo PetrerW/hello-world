@@ -1,2 +1,2 @@
 # hello-world
-Just an example, but edited.
+Just an example, but edited!
